@@ -1,5 +1,5 @@
 import keras.backend as K
-import backend as K1
+import keras_fcn.backend as K1
 from keras.utils import conv_utils
 from keras.engine.topology import Layer
 from keras.engine import InputSpec
